@@ -11,6 +11,7 @@ class DayOfYear {
 
 
 
+
 	DayOfYear(int dayOfYear) {
 
 	}
